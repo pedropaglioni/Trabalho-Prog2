@@ -1,0 +1,107 @@
+Curso: Bacharelado em Sistemas de Informacao
+Ingressantes:
+* Antonia Ribeiro Rocha - 20262BSI009 - 2026/2 - Ok
+* Antonio Vieira Carvalho - 20262BSI000 - 2026/2 - Ok
+* Carlos Vieira Dias - 20262BSI003 - 2026/2 - Ok
+* Joao Lopes Barbosa - 20262BSI002 - 2026/2 - Ok
+* Julia Martins Sousa - 20262BSI001 - 2026/2 - Ok
+* Lucas Andrade Almeida - 20262BSI005 - 2026/2 - Pendente
+* Luiz Souza Santos - 20262BSI006 - 2026/2 - Ok
+* Maria Oliveira Vieira - 20262BSI008 - 2026/2 - Ok
+* Paulo Gomes Goncalves - 20262BSI007 - 2026/2 - Pendente
+* Paulo Santana Sousa - 20262BSI004 - 2026/2 - Ok
+* Adriana Almeida Santos - 20261BSI001 - 2026/1 - Ok
+* Francisca Araujo Rocha - 20261BSI008 - 2026/1 - Pendente
+* Francisca Goncalves Costa - 20261BSI004 - 2026/1 - Ok
+* Joao Vieira Gomes - 20261BSI009 - 2026/1 - Ok
+* Julia Costa Santos - 20261BSI006 - 2026/1 - Ok
+* Julia Sousa Rodrigues - 20261BSI007 - 2026/1 - Ok
+* Juliana Oliveira Vieira - 20261BSI003 - 2026/1 - Ok
+* Paulo Martins Ribeiro - 20261BSI005 - 2026/1 - Pendente
+* Paulo Santos Barbosa - 20261BSI000 - 2026/1 - Ok
+* Pedro Batista Carvalho - 20261BSI002 - 2026/1 - Ok
+Concluintes:
+* Adriana Alves Goncalves - 20232BSI006 - 2023/2 - Pendente - 9.41
+* Antonia Batista Gomes - 20232BSI007 - 2023/2 - Ok - 0.00
+* Antonia Vieira Rocha - 20232BSI008 - 2023/2 - Ok - 8.14
+* Antonio Alves Barbosa - 20232BSI009 - 2023/2 - Ok - 0.00
+* Antonio Fernandes Almeida - 20232BSI000 - 2023/2 - Pendente - 0.00
+* Francisca Rocha Oliveira - 20232BSI003 - 2023/2 - Ok - 9.91
+* Francisco Costa Nascimento - 20232BSI004 - 2023/2 - Pendente - 9.01
+* Joao Pereira Soares - 20232BSI005 - 2023/2 - Ok - 0.00
+* Joao Pereira Sousa - 20232BSI001 - 2023/2 - Ok - 8.60
+* Jose Pereira Jesus - 20232BSI002 - 2023/2 - Ok - 0.00
+* Antonio Araujo Ferreira - 20231BSI008 - 2023/1 - Pendente - 0.00
+* Antonio Fernandes Batista - 20231BSI003 - 2023/1 - Ok - 8.44
+* Francisca Ferreira Rocha - 20231BSI007 - 2023/1 - Ok - 8.56
+* Francisco Santana Lima - 20231BSI002 - 2023/1 - Ok - 0.88
+* Gabriel Gomes Oliveira - 20231BSI005 - 2023/1 - Ok - 9.50
+* Juliana Gomes Nascimento - 20231BSI009 - 2023/1 - Ok - 9.05
+* Maria Vieira Barbosa - 20231BSI004 - 2023/1 - Ok - 0.00
+* Patricia Carvalho Araujo - 20231BSI006 - 2023/1 - Ok - 8.49
+* Paulo Oliveira Lopes - 20231BSI000 - 2023/1 - Pendente - 8.02
+* Paulo Pereira Goncalves - 20231BSI001 - 2023/1 - Ok - 8.01
+* Ana Carvalho Barbosa - 20222BSI007 - 2022/2 - Pendente - 0.00
+* Antonia Barbosa Santana - 20222BSI008 - 2022/2 - Ok - 8.27
+* Antonio Barbosa Lopes - 20222BSI003 - 2022/2 - Ok - 0.00
+* Antonio Silva Martins - 20222BSI001 - 2022/2 - Ok - 6.74
+* Fernanda Alves Araujo - 20222BSI005 - 2022/2 - Ok - 9.98
+* Francisca Martins Alves - 20222BSI004 - 2022/2 - Ok - 0.79
+* Gabriel Alves Araujo - 20222BSI006 - 2022/2 - Ok - 8.50
+* Julia Ferreira Barbosa - 20222BSI002 - 2022/2 - Ok - 8.58
+* Juliana Alves Gomes - 20222BSI000 - 2022/2 - Ok - 0.00
+* Patricia Pereira Rodrigues - 20222BSI009 - 2022/2 - Ok - 0.00
+
+Curso: Engenharia de Controle e Automacao
+Ingressantes:
+* Ana Oliveira Carvalho - 20262ECA003 - 2026/2 - Ok
+* Fernanda Dias Fernandes - 20262ECA002 - 2026/2 - Ok
+* Francisca Gomes Costa - 20262ECA004 - 2026/2 - Ok
+* Joao Costa Santos - 20262ECA006 - 2026/2 - Ok
+* Joao Lopes Barbosa - 20262ECA008 - 2026/2 - Ok
+* Juliana Andrade Gomes - 20262ECA000 - 2026/2 - Ok
+* Lucas Batista Santos - 20262ECA007 - 2026/2 - Ok
+* Maria Rodrigues Sousa - 20262ECA005 - 2026/2 - Ok
+* Patricia Martins Lima - 20262ECA009 - 2026/2 - Ok
+* Pedro Rocha Souza - 20262ECA001 - 2026/2 - Pendente
+* Adriana Souza Rodrigues - 20261ECA005 - 2026/1 - Ok
+* Ana Silva Martins - 20261ECA004 - 2026/1 - Pendente
+* Carlos Goncalves Costa - 20261ECA008 - 2026/1 - Ok
+* Carlos Sousa Fernandes - 20261ECA007 - 2026/1 - Pendente
+* Gabriel Ribeiro Alves - 20261ECA006 - 2026/1 - Ok
+* Joao Souza Gomes - 20261ECA002 - 2026/1 - Ok
+* Jose Andrade Vieira - 20261ECA003 - 2026/1 - Pendente
+* Jose Soares Rodrigues - 20261ECA000 - 2026/1 - Ok
+* Maria Andrade Jesus - 20261ECA009 - 2026/1 - Pendente
+* Maria Sousa Oliveira - 20261ECA001 - 2026/1 - Ok
+Concluintes:
+* Gabriel Andrade Almeida - 20232ECA001 - 2023/2 - Ok - 4.44
+* Jose Oliveira Alves - 20232ECA008 - 2023/2 - Ok - 9.19
+* Juliana Pereira Carvalho - 20232ECA004 - 2023/2 - Pendente - 8.63
+* Lucas Jesus Sousa - 20232ECA005 - 2023/2 - Pendente - 3.66
+* Luiz Silva Soares - 20232ECA006 - 2023/2 - Pendente - 8.33
+* Patricia Silva Fernandes - 20232ECA009 - 2023/2 - Ok - 4.02
+* Paulo Nascimento Almeida - 20232ECA003 - 2023/2 - Ok - 9.13
+* Paulo Sousa Ribeiro - 20232ECA007 - 2023/2 - Ok - 9.12
+* Pedro Rocha Lopes - 20232ECA000 - 2023/2 - Pendente - 8.11
+* Pedro Sousa Batista - 20232ECA002 - 2023/2 - Ok - 8.91
+* Adriana Costa Jesus - 20231ECA009 - 2023/1 - Ok - 4.73
+* Ana Vieira Rodrigues - 20231ECA008 - 2023/1 - Ok - 9.81
+* Carlos Andrade Souza - 20231ECA004 - 2023/1 - Ok - 9.93
+* Carlos Gomes Souza - 20231ECA003 - 2023/1 - Ok - 4.43
+* Carlos Santana Ferreira - 20231ECA006 - 2023/1 - Ok - 6.04
+* Francisco Martins Sousa - 20231ECA000 - 2023/1 - Ok - 9.87
+* Francisco Rodrigues Barbosa - 20231ECA002 - 2023/1 - Pendente - 9.85
+* Julia Dias Ribeiro - 20231ECA001 - 2023/1 - Pendente - 0.00
+* Juliana Martins Jesus - 20231ECA007 - 2023/1 - Ok - 9.08
+* Lucas Pereira Dias - 20231ECA005 - 2023/1 - Ok - 9.55
+* Adriana Sousa Souza - 20222ECA000 - 2022/2 - Pendente - 0.00
+* Ana Dias Andrade - 20222ECA003 - 2022/2 - Ok - 0.51
+* Ana Gomes Soares - 20222ECA001 - 2022/2 - Ok - 1.69
+* Antonio Ferreira Pereira - 20222ECA002 - 2022/2 - Ok - 0.00
+* Gabriel Santos Gomes - 20222ECA005 - 2022/2 - Ok - 9.64
+* Jose Oliveira Dias - 20222ECA008 - 2022/2 - Ok - 5.13
+* Juliana Lopes Oliveira - 20222ECA004 - 2022/2 - Ok - 8.59
+* Juliana Ribeiro Santana - 20222ECA007 - 2022/2 - Ok - 0.00
+* Marcia Almeida Oliveira - 20222ECA006 - 2022/2 - Ok - 9.09
+* Paulo Batista Santos - 20222ECA009 - 2022/2 - Ok - 9.33
