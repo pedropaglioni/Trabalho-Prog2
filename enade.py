@@ -1,4 +1,5 @@
 import pickle
+import time
 
 def anterior(mat1, mat2, cursos, alunos):
     """Retorna True se mat1 deve aparecer antes de mat2, e False caso contrário.
@@ -103,7 +104,10 @@ def gerarRelatorio(matriculas, cursos, alunos, notas, nome_arquivo):
             arq.write(linhaAluno(mat, alunos, notas) + "\n")
 
 def main():
-    with open("entrada100.bin", "rb") as arq:
+
+    inicio = time.perf_counter()
+
+    with open("entrada1000000.bin", "rb") as arq:
         cursos = pickle.load(arq)
         alunos = pickle.load(arq)
         notas = pickle.load(arq)
@@ -113,6 +117,9 @@ def main():
     msort(matriculas, cursos, alunos)
 
     gerarRelatorio(matriculas, cursos, alunos, notas, "saida.txt")
+
+    fim = time.perf_counter()
+    print(f"Tempo total: {fim - inicio:.3f} segundos")
 
 
 main()
