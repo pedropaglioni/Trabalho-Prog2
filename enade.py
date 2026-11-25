@@ -60,10 +60,21 @@ def merge(lista, listaEsq, listaDir, cursos, alunos):
 
 def linhaAluno(mat, alunos, notas):
     nome, curso, tipo, (ano, sem), respondeu = alunos[mat]
-    situacao = "Ok" if respondeu else "Pendente"
-    linha = f"* {nome} - {mat} - {ano}/{sem} - {situacao}"
+
+    if respondeu:
+        situacao = "Ok"
+    else:
+        situacao = "Pendente"
+    
+    linha = (f"* {nome} - {mat} - {ano}/{sem} - {situacao}")
+
     if tipo == "C":
-        linha += f" - {notas.get(mat, 0.0):.2f}"
+        if mat in notas:
+            nota = notas[mat]
+        else:
+            nota = 0.0
+        linha += (f" - {nota:.2f}")
+    
     return linha
 
 def gerarRelatorio(matriculas, cursos, alunos, notas, nome_arquivo):
@@ -83,7 +94,10 @@ def gerarRelatorio(matriculas, cursos, alunos, notas, nome_arquivo):
                 tipoAtual = None
 
             if tipo != tipoAtual:
-                arq.write("Ingressantes:\n" if tipo == "I" else "Concluintes:\n")
+                if tipo == "I":
+                    arq.write("Ingressantes:\n")
+                else:
+                    arq.write("Concluintes:\n")
                 tipoAtual = tipo
 
             arq.write(linhaAluno(mat, alunos, notas) + "\n")
