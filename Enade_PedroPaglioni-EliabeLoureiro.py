@@ -2,13 +2,13 @@ import pickle
 import time
 
 def anterior(mat1, mat2, cursos, alunos):
-    """Retorna True se mat1 deve aparecer antes de mat2, e False caso contrário.
-    Critérios, nesta ordem:
-    1) nome do curso (crescente)
-    2) tipo: ingressante ("I") antes de concluinte ("C")
-    3) (ano, semestre) de ingresso, do mais recente para o mais antigo
-    4) nome do aluno (crescente)
-    5) matrícula (crescente)
+    """ Retorna True se mat1 deve aparecer antes de mat2 e False se não.
+    Critérios:
+    1) nome do curso
+    2) tipo
+    3) (ano, semestre)
+    4) nome do aluno
+    5) matrícula
     """
     a1 = alunos[mat1]
     a2 = alunos[mat2]
