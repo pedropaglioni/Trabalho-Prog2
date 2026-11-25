@@ -107,7 +107,7 @@ def main():
 
     inicio = time.perf_counter()
 
-    with open("entrada1000000.bin", "rb") as arq:
+    with open("entrada.bin", "rb") as arq:
         cursos = pickle.load(arq)
         alunos = pickle.load(arq)
         notas = pickle.load(arq)
